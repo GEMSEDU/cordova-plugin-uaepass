@@ -1,0 +1,14 @@
+{
+  "com-plugin-uaepass": {
+    "source": {
+      "type": "registry",
+      "id": "com-plugin-uaepass"
+    },
+    "is_top_level": true,
+    "variables": {
+      "SCHEMASUCCESS": "com.gems.connectdev",
+      "SCHEMAFAIL": "com.gems.connectdev",
+      "ANDROIDSCHEMA": "com.gems.connectdev://"
+    }
+  }
+}
